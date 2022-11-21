@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5d9bbd3b.css",
+    "main.js": "/portfolio/static/js/main.45fe9dd4.js",
+    "static/media/vid.MOV": "/portfolio/static/media/vid.480eb6ac729c281089d0.MOV",
+    "static/media/django-blog.mp4": "/portfolio/static/media/django-blog.02d37e269da26a2b6f4e.mp4",
+    "static/media/IMG_0192.jpg": "/portfolio/static/media/IMG_0192.35b011b5667856fb4efa.jpg",
+    "static/media/IMG_0319.jpg": "/portfolio/static/media/IMG_0319.7973eb43b026edb6c10e.jpg",
+    "static/media/IMG_0231.JPG": "/portfolio/static/media/IMG_0231.3393c19a2e5ed2c629a1.JPG",
+    "static/media/IMG_0320.jpg": "/portfolio/static/media/IMG_0320.8f8ec84d6856a8f6ac4a.jpg",
+    "static/media/IMG_0291.JPG": "/portfolio/static/media/IMG_0291.edc0177bb1aac5a15fc8.JPG",
+    "static/media/IMG_0365.jpg": "/portfolio/static/media/IMG_0365.b16f66b1401225697d79.jpg",
+    "static/media/hangman.mp4": "/portfolio/static/media/hangman.38c5dd66dd640f1721a7.mp4",
+    "static/media/selfie.png": "/portfolio/static/media/selfie.a2536ea2825ecb7e885e.png",
+    "static/media/chloropleth.png": "/portfolio/static/media/chloropleth.157555fa823140c887c1.png",
+    "static/media/url.png": "/portfolio/static/media/url.2fc9dc6b2613f6e6b919.png",
+    "static/media/todo.png": "/portfolio/static/media/todo.90f54afa6c9515eb7f8a.png",
+    "index.html": "/portfolio/index.html",
+    "main.5d9bbd3b.css.map": "/portfolio/static/css/main.5d9bbd3b.css.map",
+    "main.45fe9dd4.js.map": "/portfolio/static/js/main.45fe9dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d9bbd3b.css",
+    "static/js/main.45fe9dd4.js"
+  ]
+}
